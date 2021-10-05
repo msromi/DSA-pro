@@ -28,7 +28,7 @@ int binarySearch(int arr[], int l, int r, int x)
     // present in array
     return -1;
 }
-  
+  //binary search in array
 int main(void)
 {
     int arr[] = { 2, 3, 4, 10, 40 };
