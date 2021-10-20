@@ -10,7 +10,7 @@ int search(int arr[], int n, int x)
             return i;
     return -1;
 }
- //loops
+ //loops gourmet pizza
 // Driver code
 int main(void)
 {
