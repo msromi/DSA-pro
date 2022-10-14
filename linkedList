@@ -1,3 +1,5 @@
+//class for node creation
+
 class Node{
   int val;
   Node next;
