@@ -24,3 +24,4 @@ int main(void)
         : cout << "Element is present at index " << result;
     return 0;
 }
+//ADD functionality for O(1) solution here
