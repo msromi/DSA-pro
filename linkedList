@@ -20,6 +20,8 @@ class Node{
 // Main class
 class Solution
 {
+
+  //algorithm for finding middle node in linked list.
   public static int findMiddle(Node head)
   {
     Node slow = head, fast = head;
