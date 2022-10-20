@@ -17,6 +17,8 @@ class Node{
   }
 }
 
+//Insert code for array implemented linked list here
+
 // Main class
 class Solution
 {
