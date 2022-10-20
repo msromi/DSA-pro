@@ -10,6 +10,7 @@ int search(int arr[], int n, int x)
     return -1;
 }
 //loop end too soon
+//Loop error not yet resolved, look for a better approach 
 
  //array searching
 // Driver code
